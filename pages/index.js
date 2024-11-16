@@ -1,5 +1,13 @@
 function Home() {
-    return <h1>Já já chego ai para lhe dar um cheiro e descer a pica!!</h1>
+  return <h1>Amo-te, minha cheirosa!!</h1>;
+}
+
+function teste() {
+  console.log("teste");
+}
+
+function teste2() {
+  console.log("identação errada");
 }
 
 export default Home;
